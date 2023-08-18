@@ -12,3 +12,4 @@ A simple react app to fetch latest news across several categories, with features
 
 
 To run the application, go into the src folder and run the command npm run start in the terminal to start the development sever.
+API from newsapi.org
