@@ -9,3 +9,4 @@ A simple react app to fetch latest news across several categories, with features
 
 ![image](https://github.com/vaibhavj-11/News-Daily-React/assets/71918594/f039854c-4473-490c-b1e6-0dfff40ad4c2)
 
+To run the application, go into the src folder and run the command npm run start in the terminal to start the development sever.
