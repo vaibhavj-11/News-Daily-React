@@ -1,6 +1,6 @@
 # News Daily
 A simple react app to fetch latest news across several categories, with features like infinite scroll, dark mode, top loading bar, etc.
-
+## Screenshots
 ![image](https://github.com/vaibhavj-11/News-Daily-React/assets/71918594/bbd14bc2-8371-4527-a217-72efd4829acd)
 
 ![image](https://github.com/vaibhavj-11/News-Daily-React/assets/71918594/f7160b2f-bad0-4369-8071-fcc59b87c260)
